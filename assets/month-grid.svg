@@ -96,4 +96,7 @@
 <rect x="346" y="274" width="34" height="34" rx="4" fill="#5c0a18" stroke="#000" stroke-opacity="0.25"><animate attributeName="y" from="274" to="264" begin="0.81s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
 </rect>
 <text x="363.0" y="285.0" font-size="10" fill="#fff" text-anchor="middle" opacity="0.85"><animate attributeName="y" from="295.0" to="285.0" begin="0.81s" dur="0.5s" fill="freeze"/>24</text>
+<rect x="70" y="352" width="34" height="0" fill="#120b0e"><animate attributeName="height" from="0" to="3" begin="0.84s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/></rect>
+<rect x="70" y="318" width="34" height="34" rx="4" fill="#1c1116" stroke="#000" stroke-opacity="0.25"><animate attributeName="y" from="318" to="315" begin="0.84s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+</rect>
 </svg>
